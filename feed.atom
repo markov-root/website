@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://markov-root.github.io/website/</id>
+    <title>markov-root</title>
+    <updated>2024-12-15T18:31:10.376Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <author>
+        <name>markov-root</name>
+        <uri>https://markov-root.github.io/website/</uri>
+    </author>
+    <link rel="alternate" href="https://markov-root.github.io/website/"/>
+    <link rel="self" href="https://markov-root.github.io/website/feed.atom"/>
+    <subtitle>Personal Website and Blog</subtitle>
+    <icon>/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blog]]></title>
+        <id>https://markov-root.github.io/website/blog/</id>
+        <link href="https://markov-root.github.io/website/blog/">
+        </link>
+        <updated>2024-12-15T18:31:10.369Z</updated>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarks]]></title>
+        <id>https://markov-root.github.io/website/blog/benchmarks/benchmarks.html</id>
+        <link href="https://markov-root.github.io/website/blog/benchmarks/benchmarks.html">
+        </link>
+        <updated>2024-03-27T00:00:00.000Z</updated>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monero]]></title>
+        <id>https://markov-root.github.io/website/blog/monero/monero.html</id>
+        <link href="https://markov-root.github.io/website/blog/monero/monero.html">
+        </link>
+        <updated>2024-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[onero is a privacy-focused cryptocurrency that was launched in 2014. It aims to provide secure, private, and untraceable transactions. Here's a detailed explanation of various aspects of Monero:]]></summary>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement Learning]]></title>
+        <id>https://markov-root.github.io/website/blog/reinforcement_learning/rl.html</id>
+        <link href="https://markov-root.github.io/website/blog/reinforcement_learning/rl.html">
+        </link>
+        <updated>2024-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[testing a post]]></summary>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capabilities]]></title>
+        <id>https://markov-root.github.io/website/blog/capabilities/capabilities.html</id>
+        <link href="https://markov-root.github.io/website/blog/capabilities/capabilities.html">
+        </link>
+        <updated>2024-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Foundation Models: The second section focuses on foundation models, the paradigm powering the state-of-the-art systems introduced in the previous section. We explain the key techniques underpinning the huge success of these models such as self-supervised learning, zero-shot learning, and fine-tuning. The section concludes by looking at the risks that the foundation model paradigm could pose such as power centralization, homogenization, and the potential for emergent capabilities.]]></summary>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Template]]></title>
+        <id>https://markov-root.github.io/website/blog/template/template.html</id>
+        <link href="https://markov-root.github.io/website/blog/template/template.html">
+        </link>
+        <updated>2024-12-15T18:31:10.373Z</updated>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semiconductors]]></title>
+        <id>https://markov-root.github.io/website/blog/semiconductors/semiconductors.html</id>
+        <link href="https://markov-root.github.io/website/blog/semiconductors/semiconductors.html">
+        </link>
+        <updated>2024-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explaining semiconductors and their evolution]]></summary>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformers]]></title>
+        <id>https://markov-root.github.io/website/blog/transformers/transformers.html</id>
+        <link href="https://markov-root.github.io/website/blog/transformers/transformers.html">
+        </link>
+        <updated>2024-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[explaining semiconductors]]></summary>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluations]]></title>
+        <id>https://markov-root.github.io/website/blog/evaluations/evaluations.html</id>
+        <link href="https://markov-root.github.io/website/blog/evaluations/evaluations.html">
+        </link>
+        <updated>2024-03-27T00:00:00.000Z</updated>
+        <author>
+            <name>markov-root</name>
+            <uri>https://markov-root.github.io/website/</uri>
+        </author>
+    </entry>
+</feed>

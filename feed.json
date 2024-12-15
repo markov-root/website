@@ -1,0 +1,112 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "markov-root",
+    "home_page_url": "https://markov-root.github.io/website/",
+    "feed_url": "https://markov-root.github.io/website/feed.json",
+    "description": "Personal Website and Blog",
+    "author": {
+        "name": "markov-root",
+        "url": "https://markov-root.github.io/website/"
+    },
+    "items": [
+        {
+            "id": "https://markov-root.github.io/website/blog/",
+            "url": "https://markov-root.github.io/website/blog/",
+            "title": "Blog",
+            "date_modified": "2024-12-15T18:31:10.369Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/benchmarks/benchmarks.html",
+            "url": "https://markov-root.github.io/website/blog/benchmarks/benchmarks.html",
+            "title": "Benchmarks",
+            "image": "https://markov-root.github.io/website/Images/Li4_Image_2.png",
+            "date_modified": "2024-03-27T00:00:00.000Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/monero/monero.html",
+            "url": "https://markov-root.github.io/website/blog/monero/monero.html",
+            "title": "Monero",
+            "summary": "onero is a privacy-focused cryptocurrency that was launched in 2014. It aims to provide secure, private, and untraceable transactions. Here's a detailed explanation of various aspects of Monero:",
+            "image": "https://markov-root.github.io/website/Images/monero.png",
+            "date_modified": "2024-03-27T00:00:00.000Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/reinforcement_learning/rl.html",
+            "url": "https://markov-root.github.io/website/blog/reinforcement_learning/rl.html",
+            "title": "Reinforcement Learning",
+            "summary": "testing a post",
+            "date_modified": "2024-11-27T00:00:00.000Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/capabilities/capabilities.html",
+            "url": "https://markov-root.github.io/website/blog/capabilities/capabilities.html",
+            "title": "Capabilities",
+            "summary": "Foundation Models: The second section focuses on foundation models, the paradigm powering the state-of-the-art systems introduced in the previous section. We explain the key techniques underpinning the huge success of these models such as self-supervised learning, zero-shot learning, and fine-tuning. The section concludes by looking at the risks that the foundation model paradigm could pose such as power centralization, homogenization, and the potential for emergent capabilities.",
+            "image": "https://markov-root.github.io/website/Images/qCW_Image_1.png",
+            "date_modified": "2024-03-27T00:00:00.000Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/template/template.html",
+            "url": "https://markov-root.github.io/website/blog/template/template.html",
+            "title": "Template",
+            "date_modified": "2024-12-15T18:31:10.373Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/semiconductors/semiconductors.html",
+            "url": "https://markov-root.github.io/website/blog/semiconductors/semiconductors.html",
+            "title": "Semiconductors",
+            "summary": "Explaining semiconductors and their evolution",
+            "date_modified": "2024-11-27T00:00:00.000Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/transformers/transformers.html",
+            "url": "https://markov-root.github.io/website/blog/transformers/transformers.html",
+            "title": "Transformers",
+            "summary": "explaining semiconductors",
+            "date_modified": "2024-11-27T00:00:00.000Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        },
+        {
+            "id": "https://markov-root.github.io/website/blog/evaluations/evaluations.html",
+            "url": "https://markov-root.github.io/website/blog/evaluations/evaluations.html",
+            "title": "Evaluations",
+            "image": "https://markov-root.github.io/website/Images/bqM_Image_1.png",
+            "date_modified": "2024-03-27T00:00:00.000Z",
+            "author": {
+                "name": "markov-root",
+                "url": "https://markov-root.github.io/website/"
+            }
+        }
+    ]
+}

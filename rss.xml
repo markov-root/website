@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>markov-root</title>
+        <link>https://markov-root.github.io/website/</link>
+        <description>Personal Website and Blog</description>
+        <lastBuildDate>Sun, 15 Dec 2024 18:31:10 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://markov-root.github.io/website/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <link>https://markov-root.github.io/website/blog/</link>
+            <guid>https://markov-root.github.io/website/blog/</guid>
+            <pubDate>Sun, 15 Dec 2024 18:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benchmarks]]></title>
+            <link>https://markov-root.github.io/website/blog/benchmarks/benchmarks.html</link>
+            <guid>https://markov-root.github.io/website/blog/benchmarks/benchmarks.html</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://markov-root.github.io/website/Images/Li4_Image_2.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Monero]]></title>
+            <link>https://markov-root.github.io/website/blog/monero/monero.html</link>
+            <guid>https://markov-root.github.io/website/blog/monero/monero.html</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[onero is a privacy-focused cryptocurrency that was launched in 2014. It aims to provide secure, private, and untraceable transactions. Here's a detailed explanation of various aspects of Monero:]]></description>
+            <enclosure url="https://markov-root.github.io/website/Images/monero.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Reinforcement Learning]]></title>
+            <link>https://markov-root.github.io/website/blog/reinforcement_learning/rl.html</link>
+            <guid>https://markov-root.github.io/website/blog/reinforcement_learning/rl.html</guid>
+            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[testing a post]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Capabilities]]></title>
+            <link>https://markov-root.github.io/website/blog/capabilities/capabilities.html</link>
+            <guid>https://markov-root.github.io/website/blog/capabilities/capabilities.html</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Foundation Models: The second section focuses on foundation models, the paradigm powering the state-of-the-art systems introduced in the previous section. We explain the key techniques underpinning the huge success of these models such as self-supervised learning, zero-shot learning, and fine-tuning. The section concludes by looking at the risks that the foundation model paradigm could pose such as power centralization, homogenization, and the potential for emergent capabilities.]]></description>
+            <enclosure url="https://markov-root.github.io/website/Images/qCW_Image_1.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Template]]></title>
+            <link>https://markov-root.github.io/website/blog/template/template.html</link>
+            <guid>https://markov-root.github.io/website/blog/template/template.html</guid>
+            <pubDate>Sun, 15 Dec 2024 18:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Semiconductors]]></title>
+            <link>https://markov-root.github.io/website/blog/semiconductors/semiconductors.html</link>
+            <guid>https://markov-root.github.io/website/blog/semiconductors/semiconductors.html</guid>
+            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explaining semiconductors and their evolution]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Transformers]]></title>
+            <link>https://markov-root.github.io/website/blog/transformers/transformers.html</link>
+            <guid>https://markov-root.github.io/website/blog/transformers/transformers.html</guid>
+            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[explaining semiconductors]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Evaluations]]></title>
+            <link>https://markov-root.github.io/website/blog/evaluations/evaluations.html</link>
+            <guid>https://markov-root.github.io/website/blog/evaluations/evaluations.html</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://markov-root.github.io/website/Images/bqM_Image_1.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

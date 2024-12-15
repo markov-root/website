@@ -1,0 +1,931 @@
+[
+  {
+    "title": "Tintin and the Lake of Sharks",
+    "author": "Greg",
+    "shelf": "read",
+    "tags": [ "western-comic" ],
+    "isbn": "9781405206341",
+    "progress": 0,
+    "publisher": "Egmont Books",
+    "yearPublished": 2002,
+    "rating": 3.53,
+    "numPages": 44,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Tintin and the Lake of Sharks",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330786743i/146123.jpg"
+  },
+  {
+    "title": "Brightest Day Omnibus",
+    "author": "Geoff Johns",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781401245979",
+    "progress": 0,
+    "publisher": "Dc Comics",
+    "yearPublished": 2014,
+    "rating": 3.79,
+    "numPages": 696,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Brightest Day Omnibus",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403178329i/19352535.jpg"
+  },
+  {
+    "title": "Flashpoint",
+    "author": "Geoff Johns",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781401233389",
+    "progress": 0,
+    "publisher": "DC Comics",
+    "yearPublished": 2012,
+    "rating": 4.23,
+    "numPages": 176,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Flashpoint",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507329660i/11501608.jpg"
+  },
+  {
+    "title": "Superman: Red Son",
+    "author": "Mark Millar",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781401201913",
+    "progress": 0,
+    "publisher": "Dc Comics",
+    "yearPublished": 2004,
+    "rating": 4.17,
+    "numPages": 160,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Superman: Red Son",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298557533i/154798.jpg"
+  },
+  {
+    "title": "Injustice: Gods Among Us: Year Two - The Complete Collection",
+    "author": "Tom    Taylor",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "",
+    "progress": 0,
+    "publisher": "",
+    "yearPublished": 2014,
+    "rating": 4.43,
+    "numPages": 552,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Injustice: Gods Among Us: Year Two - The Complete Collection",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576593469i/25876972.jpg"
+  },
+  {
+    "title": "Injustice: Gods Among Us: Year One - The Complete Collection",
+    "author": "Tom Taylor",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "",
+    "progress": 0,
+    "publisher": "",
+    "yearPublished": 2013,
+    "rating": 4.5,
+    "numPages": 464,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Injustice: Gods Among Us: Year One - The Complete Collection",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576593941i/19477241.jpg"
+  },
+  {
+    "title": "Asterix and the Golden Sickle (Asterix, #2)",
+    "author": "René Goscinny",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780752866130",
+    "progress": 0,
+    "publisher": "Orion",
+    "yearPublished": 2004,
+    "rating": 4.16,
+    "numPages": 46,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Asterix and the Golden Sickle (Asterix, #2)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415583919i/122439.jpg"
+  },
+  {
+    "title": "Tintin and Alph-Art (Tintin #24)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405214483",
+    "progress": 0,
+    "publisher": "Egmont",
+    "yearPublished": 2004,
+    "rating": 3.59,
+    "numPages": 71,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Tintin and Alph-Art (Tintin #24)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327541822i/146127.jpg"
+  },
+  {
+    "title": "Maus II: A Survivor's Tale: And Here My Troubles Began",
+    "author": "Art Spiegelman",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780679729778",
+    "progress": 0,
+    "publisher": "Pantheon",
+    "yearPublished": 1992,
+    "rating": 4.42,
+    "numPages": 144,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Maus II: And Here My Troubles Began",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615818399i/15197.jpg"
+  },
+  {
+    "title": "Batman: The Killing Joke",
+    "author": "Alan             Moore",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780930289454",
+    "progress": 0,
+    "publisher": "DC Comics",
+    "yearPublished": 1988,
+    "rating": 4.37,
+    "numPages": 50,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Batman: The Killing Joke",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346331835i/96358.jpg"
+  },
+  {
+    "title": "Asterix the Gladiator (Asterix, #4)",
+    "author": "René Goscinny",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780752866116",
+    "progress": 0,
+    "publisher": "Orion",
+    "yearPublished": 2004,
+    "rating": 4.22,
+    "numPages": 48,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Asterix the Gladiator (Asterix, #4)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385713583i/122401.jpg"
+  },
+  {
+    "title": "Asterix and the Goths (Asterix, #3)",
+    "author": "René Goscinny",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780752866154",
+    "progress": 0,
+    "publisher": "Orion",
+    "yearPublished": 2004,
+    "rating": 4.16,
+    "numPages": 48,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Asterix and the Goths (Asterix, #3)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924770i/122408.jpg"
+  },
+  {
+    "title": "Flight 714 to Sydney (Tintin, #22)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206334",
+    "progress": 0,
+    "publisher": "Egmont",
+    "yearPublished": 1931,
+    "rating": 3.98,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Flight 714 to Sydney (Tintin, #22)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434926578i/192043.jpg"
+  },
+  {
+    "title": "Explorers on the Moon (Tintin #17)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206280",
+    "progress": 0,
+    "publisher": "Educa Books",
+    "yearPublished": 2002,
+    "rating": 4.22,
+    "numPages": 64,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Explorers on the Moon (Tintin #17)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434919579i/165556.jpg"
+  },
+  {
+    "title": "Land of Black Gold (Tintin #15)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206266",
+    "progress": 0,
+    "publisher": "CASTERMAN",
+    "yearPublished": 1931,
+    "rating": 4.02,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Land of Black Gold (Tintin #15)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645803542i/146128.jpg"
+  },
+  {
+    "title": "Asterix the Gaul (Asterix, #1)",
+    "author": "René Goscinny",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780752866055",
+    "progress": 0,
+    "publisher": "Orion Books Ltd., London",
+    "yearPublished": 2004,
+    "rating": 4.19,
+    "numPages": 48,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Asterix the Gaul (Asterix, #1)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433174923i/71292.jpg"
+  },
+  {
+    "title": "The Calculus Affair (Tintin #18)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780316358477",
+    "progress": 0,
+    "publisher": "Little, Brown and Co.",
+    "yearPublished": 1976,
+    "rating": 4.15,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Calculus Affair (Tintin #18)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327958104i/6443100.jpg"
+  },
+  {
+    "title": "The Red Sea Sharks (Tintin #19)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206303",
+    "progress": 0,
+    "publisher": "Lamy",
+    "yearPublished": 2017,
+    "rating": 4.0,
+    "numPages": 200,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Red Sea Sharks (Tintin #19)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434919886i/165526.jpg"
+  },
+  {
+    "title": "The Black Island (Tintin #7)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206181",
+    "progress": 0,
+    "publisher": "CASTERMAN",
+    "yearPublished": 1931,
+    "rating": 4.03,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Black Island (Tintin #7)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327958349i/191960.jpg"
+  },
+  {
+    "title": "Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",
+    "author": "Art Spiegelman",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780394541556",
+    "progress": 0,
+    "publisher": "Pantheon Books",
+    "yearPublished": 1991,
+    "rating": 4.38,
+    "numPages": 159,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Maus I: My Father Bleeds History",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633636988i/15196.jpg"
+  },
+  {
+    "title": "The Castafiore Emerald (Tintin #21)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780316358422",
+    "progress": 0,
+    "publisher": "Little, Brown and Co.",
+    "yearPublished": 1975,
+    "rating": 3.95,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Castafiore Emerald (Tintin #21)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344267271i/146106.jpg"
+  },
+  {
+    "title": "The Crab with the Golden Claws (Tintin #9)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206204",
+    "progress": 0,
+    "publisher": "Egmont UK Ltd",
+    "yearPublished": 2002,
+    "rating": 4.09,
+    "numPages": 64,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Crab with the Golden Claws (Tintin #9)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328086778i/165555.jpg"
+  },
+  {
+    "title": "Prisoners of the Sun (Tintin #14)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206259",
+    "progress": 0,
+    "publisher": "Egmont",
+    "yearPublished": 2002,
+    "rating": 4.23,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Prisoners of the Sun (Tintin #14)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500729011i/96428.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 7: Prince Ajatasattu",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234626",
+    "progress": 0,
+    "publisher": "Vertical Comics",
+    "yearPublished": 2007,
+    "rating": 4.35,
+    "numPages": 420,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 7: Prince Ajatasattu",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320556637i/160068.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 8: Jetavana",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234633",
+    "progress": 0,
+    "publisher": "Vertical Comics",
+    "yearPublished": 2007,
+    "rating": 4.4,
+    "numPages": 364,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 8: Jetavana",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392333657i/160070.jpg"
+  },
+  {
+    "title": "Tintin in the Land of the Soviets (Tintin #1)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780867199031",
+    "progress": 0,
+    "publisher": "Last Gasp",
+    "yearPublished": 2015,
+    "rating": 3.59,
+    "numPages": 100,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Tintin in the Land of the Soviets (Tintin #1)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327959256i/87424.jpg"
+  },
+  {
+    "title": "The Seven Crystal Balls (Tintin #13)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780828850711",
+    "progress": 0,
+    "publisher": "French & European Pubns",
+    "yearPublished": 1979,
+    "rating": 4.21,
+    "numPages": 63,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Seven Crystal Balls (Tintin #13)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499677359i/146104.jpg"
+  },
+  {
+    "title": "Tintin au Congo (Tintin #2)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9782203001015",
+    "progress": 0,
+    "publisher": "Casterman",
+    "yearPublished": 2005,
+    "rating": 3.15,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Tintin au Congo (Tintin #2)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555385389i/95198.jpg"
+  },
+  {
+    "title": "King Ottokar's Sceptre (Tintin #8)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780416605105",
+    "progress": 0,
+    "publisher": "Mammoth",
+    "yearPublished": 1997,
+    "rating": 4.03,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "King Ottokar's Sceptre (Tintin #8)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327958472i/146108.jpg"
+  },
+  {
+    "title": "Le Lotus bleu (Tintin #5)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9782203001046",
+    "progress": 0,
+    "publisher": "Casterman",
+    "yearPublished": 1993,
+    "rating": 4.06,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Le Lotus bleu (Tintin #5)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555389329i/89321.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 4: The Forest of Uruvela (Buddha, #4)",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234466",
+    "progress": 0,
+    "publisher": "Vertical",
+    "yearPublished": 2004,
+    "rating": 4.34,
+    "numPages": 370,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 4: The Forest of Uruvela (Buddha, #4)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386912988i/230714.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 2: The Four Encounters  (Buddha #2)",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234442",
+    "progress": 0,
+    "publisher": "Vertical",
+    "yearPublished": 2003,
+    "rating": 4.24,
+    "numPages": 411,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 2: The Four Encounters  (Buddha #2)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389627395i/160063.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 6: Ananda",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234619",
+    "progress": 0,
+    "publisher": "Vertical Comics",
+    "yearPublished": 2007,
+    "rating": 4.33,
+    "numPages": 360,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 6: Ananda",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320556633i/160067.jpg"
+  },
+  {
+    "title": "Destination Moon (Tintin, #16)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780316358453",
+    "progress": 0,
+    "publisher": "Little, Brown and Co.",
+    "yearPublished": 1976,
+    "rating": 4.21,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Destination Moon (Tintin, #16)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344265829i/179172.jpg"
+  },
+  {
+    "title": "Tintin in America (Tintin #3 )",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780316358521",
+    "progress": 0,
+    "publisher": "Little, Brown and Co.",
+    "yearPublished": 1979,
+    "rating": 3.73,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Tintin in America (Tintin #3 )",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499677454i/790192.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 1: Kapilavastu (Buddha #1)",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234565",
+    "progress": 0,
+    "publisher": "Vertical Comics",
+    "yearPublished": 2006,
+    "rating": 4.17,
+    "numPages": 400,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 1: Kapilavastu (Buddha #1)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569285543i/209577.jpg"
+  },
+  {
+    "title": "Cigars of the Pharaoh (Tintin #4)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "",
+    "progress": 0,
+    "publisher": "",
+    "yearPublished": 0,
+    "rating": 4.05,
+    "numPages": 63,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Cigars of the Pharaoh (Tintin #4)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327959128i/146122.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 5: Deer Park (Buddha, #5)",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234473",
+    "progress": 0,
+    "publisher": "Vertical",
+    "yearPublished": 2005,
+    "rating": 4.35,
+    "numPages": 350,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 5: Deer Park (Buddha, #5)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320555448i/160065.jpg"
+  },
+  {
+    "title": "The League of Extraordinary Gentlemen, Vol. 1",
+    "author": "Alan             Moore",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781563898587",
+    "progress": 0,
+    "publisher": "America's Best Comics",
+    "yearPublished": 2002,
+    "rating": 3.95,
+    "numPages": 192,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The League of Extraordinary Gentlemen, Vol. 1",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552295653i/297627.jpg"
+  },
+  {
+    "title": "Buddha, Vol. 3: Devadatta (Buddha, #3)",
+    "author": "Osamu Tezuka",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781932234459",
+    "progress": 0,
+    "publisher": "Vertical",
+    "yearPublished": 2004,
+    "rating": 4.26,
+    "numPages": 322,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Buddha, Vol. 3: Devadatta (Buddha, #3)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388280567i/160064.jpg"
+  },
+  {
+    "title": "The Broken Ear (Tintin #6)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780316358507",
+    "progress": 0,
+    "publisher": "Little, Brown and Co.",
+    "yearPublished": 1978,
+    "rating": 3.88,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Broken Ear (Tintin #6)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344271239i/1169556.jpg"
+  },
+  {
+    "title": "Crisis on Infinite Earths",
+    "author": "Marv Wolfman",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781563897504",
+    "progress": 0,
+    "publisher": "Dc Comics",
+    "yearPublished": 2000,
+    "rating": 4.02,
+    "numPages": 364,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Crisis on Infinite Earths",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327906696i/194479.jpg"
+  },
+  {
+    "title": "Tintin in Tibet (Tintin #20)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405208192",
+    "progress": 0,
+    "publisher": "Egmont",
+    "yearPublished": 2008,
+    "rating": 4.23,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Tintin in Tibet (Tintin #20)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327958643i/87425.jpg"
+  },
+  {
+    "title": "Red Rackham's Treasure (Tintin #12)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781405206235",
+    "progress": 0,
+    "publisher": "Egmont",
+    "yearPublished": 2002,
+    "rating": 4.29,
+    "numPages": 64,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Red Rackham's Treasure (Tintin #12)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352642695i/146109.jpg"
+  },
+  {
+    "title": "Y: The Last Man, Vol. 1: Unmanned",
+    "author": "Brian K. Vaughan",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781563899805",
+    "progress": 0,
+    "publisher": "Vertigo",
+    "yearPublished": 2003,
+    "rating": 4.08,
+    "numPages": 130,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Y: The Last Man, Vol. 1: Unmanned",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388178315i/156534.jpg"
+  },
+  {
+    "title": "Watchmen",
+    "author": "Alan             Moore",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780930289232",
+    "progress": 0,
+    "publisher": "DC Comics",
+    "yearPublished": 2005,
+    "rating": 4.38,
+    "numPages": 416,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Watchmen",
+    "image": "https://m.media-amazon.com/images/I/71fMZpUiHaL._SL1500_.jpg"
+  },
+  {
+    "title": "V for Vendetta",
+    "author": "Alan             Moore",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781401207922",
+    "progress": 0,
+    "publisher": "Vertigo",
+    "yearPublished": 2005,
+    "rating": 4.26,
+    "numPages": 296,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "V for Vendetta",
+    "image": "https://media.senscritique.com/media/000011195268/source_big/V_pour_Vendetta.jpg"
+  },
+  {
+    "title": "Sin City Volume 1: The Hard Goodbye",
+    "author": "Frank Miller",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9781593072933",
+    "progress": 0,
+    "publisher": "Dark Horse Books",
+    "yearPublished": 2010,
+    "rating": 4.17,
+    "numPages": 208,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "Sin City Vol. 1: The Hard Goodbye",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470924635i/392297.jpg"
+  },
+  {
+    "title": "The Secret of the Unicorn (Tintin #11)",
+    "author": "Hergé",
+    "shelf": "read",
+    "tags": [
+      "western-comic"
+    ],
+    "isbn": "9780316358323",
+    "progress": 0,
+    "publisher": "Little, Brown and Company",
+    "yearPublished": 1974,
+    "rating": 4.3,
+    "numPages": 62,
+    "dateRead": "",
+    "magnetHash": "",
+    "ipfsLink": "",
+    "displayName": "The Secret of the Unicorn (Tintin #11)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344263637i/179174.jpg"
+  }
+]
